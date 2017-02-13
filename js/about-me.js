@@ -9,7 +9,7 @@ var sleepAverage = parseFloat('8 hours of sleep');
 var musicPreference = 'hip-hop';
 var favoriteShowsAndMovies = [`Only Lovers Left Alive`, `Moonlight`, `Adventure Time`, `Black Mirror`];
 var jobTitleInFiveYears;
-var lifeWithoutJavascript = 'null';
+var lifeWithoutJavascript = null;
 var graduationYear = new Date(2005, 0, 20);
 
 console.log(firstName);

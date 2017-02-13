@@ -1,0 +1,12 @@
+var firstName = 'Aubrey';
+var lastName = 'Badger';
+var fullName = `${firstName} ${lastName}`;
+var emailAddress = 'akbadger@gmail.com';
+var grewUpInCity = true;
+var yearsInCollege = 4;
+var numberOfPets = 2;
+var sleepAverage = parseFloat('8 hours of sleep');
+var musicPreference = 'hip-hop';
+var favoriteShowsAndMovies = [`Only Lovers Left Alive`, `Moonlight`, `Adventure Time`, `Black Mirror`];
+var jobTitleInFiveYears;
+var lifeWithoutJavaScript = 'null';
